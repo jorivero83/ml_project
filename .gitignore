@@ -2,3 +2,4 @@
 .idea/
 dist/
 ml_project.egg-info/
+__pycache__/
